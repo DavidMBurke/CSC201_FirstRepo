@@ -1,5 +1,5 @@
 # CSC201_CloneTest
 
-#Stephen Harris
+#David Burke
 
-The purpose of this repo is to test and verify you are able to access repositories created for this course.
+The purpose of this repo was to test and verify I am able to access repositories created for this course.
